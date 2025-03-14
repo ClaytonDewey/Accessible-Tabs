@@ -4,4 +4,4 @@
 
 [CodePen](https://codepen.io/kevinpowell/pen/oNQgRKm)
 
-[Kevin Powell][https://www.kevinpowell.co/]
+[Kevin Powell](https://www.kevinpowell.co/)
